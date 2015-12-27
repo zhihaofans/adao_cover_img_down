@@ -6,5 +6,5 @@
 ###### 的图片
 
 #### 注意：
-###### python版本2.3
-###### 调用模块:os,urllib,urllib2
+###### python版本`2.3`
+###### 调用模块:`os`,`urllib`,`urllib2`
